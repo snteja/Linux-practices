@@ -1,0 +1,49 @@
+total 60
+drwxr-xr-x 5 ubuntu ubuntu 4096 Feb 12 11:10 ./
+drwxr-xr-x 3 root   root   4096 Feb 12 10:12 ../
+-rw-r--r-- 1 ubuntu ubuntu  220 Apr  4  2018 .bash_logout
+-rw-r--r-- 1 ubuntu ubuntu 3771 Apr  4  2018 .bashrc
+drwx------ 2 ubuntu ubuntu 4096 Feb 12 10:12 .cache/
+drwx------ 3 ubuntu ubuntu 4096 Feb 12 10:12 .gnupg/
+-rw-r--r-- 1 ubuntu ubuntu  807 Apr  4  2018 .profile
+drwx------ 2 ubuntu ubuntu 4096 Feb 12 10:12 .ssh/
+-rw-r--r-- 1 ubuntu ubuntu    0 Feb 12 10:13 .sudo_as_admin_successful
+-rw------- 1 ubuntu ubuntu  763 Feb 12 10:34 .viminfo
+-rw-rw-r-- 1 ubuntu ubuntu   49 Feb 12 11:10 1
+-rw-rw-r-- 1 ubuntu ubuntu   49 Feb 12 11:07 e.txt
+-rw-rw-r-- 1 ubuntu ubuntu  448 Feb 12 11:10 er.txt
+-rw-rw-r-- 1 ubuntu ubuntu  184 Feb 12 10:34 file.txt
+-rw-rw-r-- 1 ubuntu ubuntu  349 Feb 12 10:43 file1
+-rw-rw-r-- 1 ubuntu ubuntu    0 Feb 12 10:58 file2
+-rw-rw-r-- 1 ubuntu ubuntu   38 Feb 12 10:58 file4
+-rw-rw-r-- 1 ubuntu ubuntu    0 Feb 12 11:11 s.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 Feb 12 10:44 tree.txt
+total 64
+drwxr-xr-x 5 ubuntu ubuntu 4096 Feb 12 11:10 ./
+drwxr-xr-x 3 root   root   4096 Feb 12 10:12 ../
+-rw-r--r-- 1 ubuntu ubuntu  220 Apr  4  2018 .bash_logout
+-rw-r--r-- 1 ubuntu ubuntu 3771 Apr  4  2018 .bashrc
+drwx------ 2 ubuntu ubuntu 4096 Feb 12 10:12 .cache/
+drwx------ 3 ubuntu ubuntu 4096 Feb 12 10:12 .gnupg/
+-rw-r--r-- 1 ubuntu ubuntu  807 Apr  4  2018 .profile
+drwx------ 2 ubuntu ubuntu 4096 Feb 12 10:12 .ssh/
+-rw-r--r-- 1 ubuntu ubuntu    0 Feb 12 10:13 .sudo_as_admin_successful
+-rw------- 1 ubuntu ubuntu  763 Feb 12 10:34 .viminfo
+-rw-rw-r-- 1 ubuntu ubuntu   49 Feb 12 11:10 1
+-rw-rw-r-- 1 ubuntu ubuntu   49 Feb 12 11:07 e.txt
+-rw-rw-r-- 1 ubuntu ubuntu  448 Feb 12 11:10 er.txt
+-rw-rw-r-- 1 ubuntu ubuntu  184 Feb 12 10:34 file.txt
+-rw-rw-r-- 1 ubuntu ubuntu  349 Feb 12 10:43 file1
+-rw-rw-r-- 1 ubuntu ubuntu    0 Feb 12 10:58 file2
+-rw-rw-r-- 1 ubuntu ubuntu   38 Feb 12 10:58 file4
+-rw-rw-r-- 1 ubuntu ubuntu 1015 Feb 12 11:11 s.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 Feb 12 10:44 tree.txt
+1
+e.txt
+er.txt
+file.txt
+file1
+file2
+file4
+s.txt
+tree.txt

@@ -1,22 +1,4 @@
-Hi.. this is teja
-SAi
-Nava
-Teja
-Chandra
-Devops
-Engineer
-AWS cloud
-Engineer
-Worked on tools like
-GIT
-JENKINS
-MAVEN
-DOCKER
-ANSIBKLE
-KUBERNETES
-SHELL
-S3
-Load balancersLine1
+Line1
 line2
 line3
 line4

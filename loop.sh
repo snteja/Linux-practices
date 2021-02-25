@@ -1,14 +1,7 @@
-#! /bin/bash
+#!/bin/bash
 
-a=0
-while [ $a -lt 10 ]
+for I in $(seq 1 10)
 do
- b=$a
- while [ $b -ge 0 ]
- do
-  echo -n "$b"
-  b=$(( b-1 ))
- done
-echo
-a=$(( a+1 ))
+	echo "Loop is working"
 done
+

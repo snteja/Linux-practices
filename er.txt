@@ -1,0 +1,16 @@
+
+Command 'lsl' not found, did you mean:
+
+  command 'lsd' from snap lsd (0.16.0)
+  command 'lsh' from deb lsh-client
+  command 'wsl' from deb wsl
+  command 'sl' from deb sl
+  command 'lsw' from deb suckless-tools
+  command 'psl' from deb psl
+  command 'lsm' from deb lsm
+  command 'gsl' from deb generator-scripting-language
+  command 'lsc' from deb livescript
+  command 'ls' from deb coreutils
+
+See 'snap info <snapname>' for additional versions.
+
